@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0cccf4d973677de6c95e71d49138316",
+    "revision": "ab4813ba85c4ed7b4a385cc2e62a8448",
     "url": "/instagram-stats/index.html"
   },
   {
-    "revision": "a697b6bce1cca1ba4f6f",
+    "revision": "fa63fac0513bf01c7296",
     "url": "/instagram-stats/static/css/main.6bccfe1a.chunk.css"
   },
   {
-    "revision": "7ab0353a18695af38394",
-    "url": "/instagram-stats/static/js/2.e92086a5.chunk.js"
+    "revision": "0c3afe8a8d6851b9f6aa",
+    "url": "/instagram-stats/static/js/2.573a7521.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/instagram-stats/static/js/2.e92086a5.chunk.js.LICENSE.txt"
+    "url": "/instagram-stats/static/js/2.573a7521.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a697b6bce1cca1ba4f6f",
-    "url": "/instagram-stats/static/js/main.1eb31d83.chunk.js"
+    "revision": "fa63fac0513bf01c7296",
+    "url": "/instagram-stats/static/js/main.aa8184b0.chunk.js"
   },
   {
     "revision": "91c1ac10005c9a7ef562",
     "url": "/instagram-stats/static/js/runtime-main.4d9bdda5.js"
+  },
+  {
+    "revision": "bca903c627ed0453a74dc1d2b9686460",
+    "url": "/instagram-stats/static/media/instagramCartel.bca903c6.png"
   },
   {
     "revision": "258751f840975289089eee82211d0ba2",
